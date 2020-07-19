@@ -1,4 +1,4 @@
-package com.veeranji.memberService.resources;
+package com.veeranji.memberService.api;
 
 import java.util.List;
 import java.util.Optional;
