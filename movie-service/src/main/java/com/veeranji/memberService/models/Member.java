@@ -15,6 +15,8 @@ public class Member implements Serializable{
 	private String id;
 	private String memberName;
 
+	
+	
 	public Member() {
 	}
 
